@@ -1,0 +1,67 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #202632;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  font-size: 40px;
+}
+body main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+body #advice-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid;
+  border-radius: 0.8rem;
+  width: 50%;
+  height: 60%;
+  background-color: rgba(255, 255, 255, 0.1254901961);
+}
+body h1 {
+  margin: 0;
+  font-weight: normal;
+  font-size: 0.75rem;
+  color: #53ffab;
+}
+body p {
+  margin: 0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: white;
+}
+body button {
+  height: 3rem;
+  width: 3rem;
+  background-color: #53ffab;
+  transform: translateY(-1.5rem);
+  border: solid 0px;
+  border-radius: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body button :hover {
+  box-shadow: 0 0 2.5rem 0.8rem #53ffab;
+}
+body button img {
+  height: 50%;
+  width: auto;
+}
+body .attribution {
+  font-size: 11px;
+  text-align: center;
+}
+body a {
+  color: hsl(228deg, 45%, 44%);
+}
+
+/*# sourceMappingURL=index.css.map */

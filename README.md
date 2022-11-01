@@ -21,4 +21,4 @@ Front End and APi practise project. Project idea, critera and assets from: [(fro
 
 ## The Challenge
 
-Build a responsive advice generator app using the [Advice Slip API](https://api.adviceslip.com/)
+Build a responsive advice generator app using the [Advice Slip API](https://api.adviceslip.com/).
